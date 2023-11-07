@@ -1,3 +1,11 @@
-<h1 align="center">Yo 🖖✌️ Welcome to my page</h1>
-<h2 align="center">Development Engineer</h2>
-<h3 align="center">A passionate autonomous driving engineer from Beijing China</h3>
+<!-- <h1 align="center">Hi there, I'm June</h1> -->
+
+# Yo🤘
+
+💻 Development Engineer
+
+🎓 M.E. Class of 2017 & SVM Class of 2021 @ THU
+
+📚 I work with C++, Python, MATLAB/Simulink and DL/ML.
+
+💼 3D LiDAR, SLAM in Autonomous Driving;
