@@ -6,7 +6,7 @@ Yo🤘 Stranger, Welcome to my page</strong></p>
 <p align="center">
 🎓 M.E. Class of 2017 & SVM Class of 2021 @ THU</p>
 <p align="center">
-💼 My Fields of Interest: Perception for Autonomous Vehicles, Deep Learning</p>
+💼 My Fields of Interest: Perception for Autonomous Vehicles, Deep Learning, and etc.</p>
 <p align="center">
 📚 I work with C++, Python, ROS, MATLAB/Simulink and more.</p>
 
