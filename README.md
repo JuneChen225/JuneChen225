@@ -10,4 +10,4 @@ Yo🤘 Stranger, Welcome to my page</strong></p>
 <p align="center">
 📚 I work with C++, Python, ROS, MATLAB/Simulink and more.</p>
 <p align="center">
- I am always eager to connect with like-minded individuals to exchange ideas, knowledge, and opportunities.</p>
+ I am always eager to connect with like-minded individuals to exchange ideas, knowledge, and opportunities. So pm me!</p>
